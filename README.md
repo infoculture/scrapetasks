@@ -1,4 +1,6 @@
 # scrapetasks
+
+UPDATE: Задачи перенесены в репозиторий Хаба открытых данных - https://github.com/infoculture/hubofdata/issues
 Задачи сообщества по сбору и извлечению данных из официальных источников / Community tasks to collect open data from official sources
 
 Главное отличие этих задач от других которые мы собираем:
